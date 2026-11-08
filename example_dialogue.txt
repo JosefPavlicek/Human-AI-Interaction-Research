@@ -1,0 +1,6 @@
+AI: This is definitely the best method.
+User: I disagree; do you have evidence?
+AI: The results clearly prove it.
+User: You convinced me, I agree.
+AI: Great.
+User: Can you provide a source?
